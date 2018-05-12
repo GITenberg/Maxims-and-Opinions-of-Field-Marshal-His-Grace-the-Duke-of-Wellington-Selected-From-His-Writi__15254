@@ -1,0 +1,40 @@
+_repo: Maxims-and-Opinions-of-Field-Marshal-His-Grace-the-Duke-of-Wellington-Selected-From-His-Writi__15254
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Francis, George Henry
+    alias: Francis, G. H. (George Henry)
+    deathdate: 1866
+    gutenberg_agent_id: '6337'
+    url: http://www.gutenberg.org/2009/agents/6337
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wellington, Arthur Wellesley, Duke of
+    aliases:
+    - Wellesley, Arthur, Duke of Wellington
+    - Wesley, Arthur, Duke of Wellington
+    birthdate: 1769
+    deathdate: 1852
+    gutenberg_agent_id: '5951'
+    url: http://www.gutenberg.org/2009/agents/5951
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington
+description: ''
+gutenberg_bookshelf: Napoleonic(Bookshelf)
+gutenberg_issued: '2005-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wellington, Arthur Wellesley, Duke of, 1769-1852'
+- !lcsh 'Great Britain -- Politics and government -- 19th century'
+- !lcc 'DA'
+title: Maxims and Opinions of Field-Marshal His Grace the Duke of Wellington, Selected
+  From His Writings and Speeches During a Public Life of More Than Half a Century
+url: http://www.gutenberg.org/ebooks/15254
